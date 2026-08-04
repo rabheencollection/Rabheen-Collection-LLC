@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Thobes — Rabheen Collection</title>
+<link rel="icon" href="logo.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,500&family=Jost:wght@300;400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <div class="nav">
+    <a class="brand" href="index.html"><img src="logo.png" alt="Rabheen Collection"></a>
+    <nav class="links">
+      <a href="index.html">Home</a>
+      <a href="thobes.html" class="active">Thobes</a>
+      <a href="jewelry.html">Jewelry</a>
+      <a href="dresses.html">Dresses</a>
+    </nav>
+    <a href="https://wa.me/15551234567" target="_blank" rel="noopener" class="nav-cta">Message Us</a>
+  </div>
+</header>
+
+<section class="page-hero">
+  <div class="eyebrow">Sudanese Craft</div>
+  <h1>Thobes</h1>
+  <p>Flowing, colorful thobes in traditional prints — the everyday elegance of Sudan.</p>
+</section>
+
+<section class="shop">
+  <div class="grid" id="product-grid"></div>
+</section>
+
+<footer>
+  <div class="footer-inner">
+    <div class="footer-brand"><img src="logo.png" alt="Rabheen Collection"></div>
+    <div class="footer-links">
+      <a href="thobes.html">Thobes</a>
+      <a href="jewelry.html">Jewelry</a>
+      <a href="dresses.html">Dresses</a>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <span>© 2026 Rabheen Collection.</span>
+    <span>Sudan · Worldwide</span>
+  </div>
+</footer>
+
+<script src="products-data.js"></script>
+<script src="site.js"></script>
+<script>renderGrid('thobes', 'product-grid');</script>
+</body>
+</html>
