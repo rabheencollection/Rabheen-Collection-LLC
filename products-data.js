@@ -27,16 +27,34 @@
 window.PRODUCTS = {
 
   thobes: [
-  { name: "Rosewood Thobe With Beaded Crystal and Gold Patterns", price: 75, image: "images/Pinkone.PNG" },
-    { name: "Pink & Gold Botanical Embroidered Sudanese Thobe", price: 75, image: "images/Pinktwo.PNG" },
-    { name: "Magenta Floral Motif Sudanese Thobe", price: 75, image: "images/Pinkthree.PNG" },
-    { name: "Pink & Black Scalloped Gold Embellished Thobe", price: 75, image: "images/Pinkblack.PNG" },
-    { name: "Sage Green Rose Print Sudanese Thobe", price: 75, image: "images/Greenbrown.PNG" },
-    { name: "Orange & Cream Floral Sudanese Thobe", price: 75, image: "images/Orangecream.PNG" },
-    { name: "Dusty Pink Sunburst Motif Thobe", price: 75, image: "images/Pinkdish.PNG" },
-    { name: "Mustard Gold Cultural Emblem Thobe", price: 75, image: "images/Zaghwa.PNG" },
-    { name: "Crimson & Onyx Abstract Floral Thobe", price: 75, image: "images/Blackredone.PNG" },
+  { name: "Rosewood Toub With Beaded Crystal and Gold Patterns", price: 75, image: "images/Pinkone.PNG" },
+    { name: "Pink & Gold Botanical Embroidered Sudanese Toub", price: 75, image: "images/Pinktwo.PNG" },
+    { name: "Magenta Floral Motif Sudanese Toub", price: 75, image: "images/Pinkthree.PNG" },
+    { name: "Pink & Black Scalloped Gold Embellished Toub", price: 75, image: "images/Pinkblack.PNG" },
+    { name: "Sage Green Rose Print Sudanese Toub", price: 75, image: "images/Greenbrown.PNG" },
+    { name: "Orange & Cream Floral Sudanese Toub", price: 75, image: "images/Orangecream.PNG" },
+    { name: "Dusty Pink Sunburst Motif Toub", price: 75, image: "images/Pinkdish.PNG" },
+    { name: "Zaqhawa Cultural Emblem Toub", price: 75, image: "images/Zaghwa.PNG" },
+    { name: "Crimson & Onyx Abstract Floral Toub", price: 75, image: "images/Blackredone.PNG" },
+
+    { name: "Pink Watercolor Leaf Print Toub", price: 75, image: "images/Pinkleaves.PNG" },
+    { name: "Royal Blue & Yellow Floral Toub", price: 75, image: "images/Blueyellow.PNG" },
+    { name: "Espresso Rhinestone Embellished Toub", price: 75, image: "images/Brownone.PNG" },
+    { name: "Blush Pink Bold Floral Motif Toub", price: 75, image: "images/Pinkblackflower.PNG" },
+    { name: "Onyx Black Rainbow Feather Toub", price: 75, image: "images/Blackrainbow.PNG" },
+    { name: "Deep Teal & Dust Rose Wave Toub", price: 75, image: "images/Navypink.jpg" },
+    { name: "Onyx Black Gold Gamar Boba Toub", price: 75, image: "images/Blackgamarboba.PNG" },
+    { name: "Crimson Red Gold Gamar Boba Toub", price: 75, image: "images/Redgamarboba.PNG" },
+    { name: "Onyx Black Sunburst Motif Toub", price: 75, image: "images/Blackdish.PNG" },
+    { name: "Mint Green Botanical Leaf Print Toub", price: 75, image: "images/Greenleaf.PNG" },
+    { name: "Purple Zebra & Animal Print Thobe", price: 75, image: "images/Purplestripes.PNG" },
+    { name: "Coral Pink Zebra Print Thobe", price: 75, image: "images/Pinkstripes.PNG" },
+    { name: "Dusty Coral & Charcoal Abstract Thobe", price: 75, image: "images/Pinkblackgray.PNG" },
+    { name: "Lavender Rainbow Floral Thobe", price: 75, image: "images/Purplewflowers.PNG" },
+    { name: "Royal Purple Rainbow Petal Thobe", price: 75, image: "images/Purplerainbowflower.PNG" },
+    { name: "Sky Blue Rainbow Floral Thobe", price: 75, image: "images/Skybluerainbowflower.PNG" },
   ],
+
 
   jewelry: [
     { name: "Gold Filigree Necklace Set",     price: 30, image: "images/jewelry-1-nobg.png" },
