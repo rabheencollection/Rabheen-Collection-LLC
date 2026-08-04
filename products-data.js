@@ -27,16 +27,15 @@
 window.PRODUCTS = {
 
   thobes: [
-    { name: "Purple Mosaic Print Thobe", price: 75, image: "images/thobe-1-nobg.png" },
-    { name: "Coral Mosaic Print Thobe",  price: 75, image: "images/thobe-2-nobg.png" },
-    { name: "Rosewood Thobe With Beaded Crystal and Gold Patterns", price: 75, image: "images/Pinkone.PNG" },
+  { name: "Rosewood Thobe With Beaded Crystal and Gold Patterns", price: 75, image: "images/Pinkone.PNG" },
     { name: "Pink & Gold Botanical Embroidered Sudanese Thobe", price: 75, image: "images/Pinktwo.PNG" },
     { name: "Magenta Floral Motif Sudanese Thobe", price: 75, image: "images/Pinkthree.PNG" },
-    { name: "Pink & Black Scalloped Gold Embellished Thobe", price: 75, image: "images/Pinkfour.PNG" },
-    { name: "Dusty Pink Sunburst Woven Motif Toub", price: 75, image: "images/Pinkdish.PNG" },
-    { name: "Crimson & Onyx Abstract Floral Thobe", price: 75, image: "images/Blackredone.PNG" },
-    { name: "Mustard Gold Cultural Emblem Thobe", price: 75, image: "images/Zaghwa.PNG" }, 
+    { name: "Pink & Black Scalloped Gold Embellished Thobe", price: 75, image: "images/Pinkblack.PNG" },
     { name: "Sage Green Rose Print Sudanese Thobe", price: 75, image: "images/Greenbrown.PNG" },
+    { name: "Orange & Cream Floral Sudanese Thobe", price: 75, image: "images/Orangecream.PNG" },
+    { name: "Dusty Pink Sunburst Motif Thobe", price: 75, image: "images/Pinkdish.PNG" },
+    { name: "Mustard Gold Cultural Emblem Thobe", price: 75, image: "images/Zaghwa.PNG" },
+    { name: "Crimson & Onyx Abstract Floral Thobe", price: 75, image: "images/Blackredone.PNG" },
   ],
 
   jewelry: [
