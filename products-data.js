@@ -29,7 +29,9 @@ window.PRODUCTS = {
   thobes: [
     { name: "Purple Mosaic Print Thobe", price: 75, image: "images/thobe-1-nobg.png" },
     { name: "Coral Mosaic Print Thobe",  price: 75, image: "images/thobe-2-nobg.png" },
- { name: "Rosewood Thobe With Beaded Crystal and Gold Patterns", price: 75, image: "images/Pinkone.PNG" },
+    { name: "Rosewood Thobe With Beaded Crystal and Gold Patterns", price: 75, image: "images/Pinkone.PNG" },
+    { name: "Pink & Gold Botanical Embroidered Sudanese Thobe", price: 75, image: "images/Pinktwo.PNG" },
+     { name: "Magenta Floral Motif Sudanese Thobe", price: 75, image: "images/Pinkthree.PNG" },
   ],
 
   jewelry: [
