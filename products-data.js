@@ -67,7 +67,7 @@ window.PRODUCTS = {
   jewelry: [
 { name: "Plated Gold Leaf V-Neck Set", price: 35, image: "images/Jewelnine9.PNG" },
 { name: "Plated Gold Lace Filigree Statement Set", price: 35, image: "images/Jeweleight8.PNG" },
-{ name: "Plated Gold Layered Blossom Collar Set", price: 35, image: "images/Jewelseven7.PNG" },
+{ name: "Plated Gold Layered Blossom Collar Set", price: 35, image: "images/Jewelseven7.jpg" },
 { name: "Plated Gold Crescent Motif Set", price: 35, image: "images/Jewelsix6.PNG" },
 { name: "Plated Gold Lattice Teardrop Set", price: 35, image: "images/Jewelfive5.PNG" },
 { name: "Plated Gold Crescent Petal Set", price: 35, image: "images/Jewelfour4.PNG" },
