@@ -27,7 +27,6 @@
 window.PRODUCTS = {
 
   thobes: [
-  { name: "Rosewood Toub With Beaded Crystal and Gold Patterns", price: 75, image: "images/Pinkone.PNG" },
     { name: "Pink & Gold Botanical Embroidered Sudanese Toub", price: 75, image: "images/Pinktwo.PNG" },
     { name: "Magenta Floral Motif Sudanese Toub", price: 75, image: "images/Pinkthree.PNG" },
     { name: "Pink & Black Scalloped Gold Embellished Toub", price: 75, image: "images/Pinkblack.PNG" },
@@ -47,24 +46,41 @@ window.PRODUCTS = {
     { name: "Crimson Red Gold Gamar Boba Toub", price: 75, image: "images/Redgamarboba.PNG" },
     { name: "Onyx Black Sunburst Motif Toub", price: 75, image: "images/Blackdish.PNG" },
     { name: "Mint Green Botanical Leaf Print Toub", price: 75, image: "images/Greenleaf.PNG" },
-    { name: "Purple Zebra & Animal Print Thobe", price: 75, image: "images/Purplestripes.PNG" },
-    { name: "Coral Pink Zebra Print Thobe", price: 75, image: "images/Pinkstripes.PNG" },
-    { name: "Dusty Coral & Charcoal Abstract Thobe", price: 75, image: "images/Pinkblackgray.PNG" },
-    { name: "Lavender Rainbow Floral Thobe", price: 75, image: "images/Purplewflowers.PNG" },
-    { name: "Royal Purple Rainbow Petal Thobe", price: 75, image: "images/Purplerainbowflower.PNG" },
-    { name: "Sky Blue Rainbow Floral Thobe", price: 75, image: "images/Skybluerainbowflower.PNG" },
+    { name: "Purple Zebra & Animal Print Toub", price: 75, image: "images/Purplestripes.PNG" },
+    { name: "Coral Pink Zebra Print Toub", price: 75, image: "images/Pinkstripes.PNG" },
+    { name: "Dusty Coral & Charcoal Abstract Toub", price: 75, image: "images/Pinkblackgray.PNG" },
+    { name: "Lavender Rainbow Floral Toub", price: 75, image: "images/Purplewflowers.PNG" },
+    { name: "Royal Purple Rainbow Petal Toub", price: 75, image: "images/Purplerainbowflower.PNG" },
+
+   { name: "Magenta Rose Gold Geometric Toub", price: 75, image: "images/Pinkgoldleafs.PNG" },
+   { name: "Mint & Coral Embellished Floral Toub", price: 75, image: "images/Mintgoldflowers.PNG" },
+   { name: "Bright Sky Blue Rainbow Floral Toub", price: 75, image: "images/Bluerainbowflowers.PNG" },
+   { name: "Deep Teal & Rose Gold Wave Toub", price: 75, image: "images/Greenpink.PNG" },
+   { name: "Lime Green Crimson Rose Toub", price: 75, image: "images/Greenredflowers.PNG" },
+   { name: "Onyx Black Bright Butterfly Toub", price: 75, image: "images/Blackcolorfulbutterflies.PNG" },
+   { name: "Multicolor Swirl Abstract Toub", price: 75, image: "images/Multicolorflower.PNG" },
+   { name: "Onyx Black & Magenta Leaf Toub", price: 75, image: "images/Blackpinkleafs.PNG" },
+   { name: "Light Gray & Mustard Gold Floral Toub", price: 75, image: "images/Goldgray.PNG" },
   ],
 
 
   jewelry: [
-    { name: "Gold Filigree Necklace Set",     price: 30, image: "images/jewelry-1-nobg.png" },
-    { name: "Gold Layered Necklace & Earrings", price: 30, image: "images/jewelry-2-nobg.png" },
-    { name: "Gold Flower Pendant Necklace",   price: 30, image: "images/jewelry-3-nobg.png" },
-    { name: "Gold Scalloped Necklace Set",    price: 30, image: "images/jewelry-4-nobg.png" },
+{ name: "Plated Gold Leaf V-Neck Set", price: 35, image: "images/Jewelnine9.PNG" },
+{ name: "Plated Gold Lace Filigree Statement Set", price: 35, image: "images/Jeweleight8.PNG" },
+{ name: "Plated Gold Layered Blossom Collar Set", price: 35, image: "images/Jewelseven7.PNG" },
+{ name: "Plated Gold Crescent Motif Set", price: 35, image: "images/Jewelsix6.PNG" },
+{ name: "Plated Gold Lattice Teardrop Set", price: 35, image: "images/Jewelfive5.PNG" },
+{ name: "Plated Gold Crescent Petal Set", price: 35, image: "images/Jewelfour4.PNG" },
+{ name: "Plated Gold Spiral Bloom Set", price: 35, image: "images/Jewelthree3.PNG" },
+{ name: "Plated Gold Crystal Rose Garland Set", price: 35, image: "images/Jeweltwo2.JPG" },
+{ name: "Plated Gold Scalloped Fan Set", price: 35, image: "images/Jewelone1.JPG" },
   ],
 
   dresses: [
-    { name: "Blush Beaded Embroidered Dress", price: 75, image: "images/dress-1-nobg.png" },
+{ name: "Purple Gold Greek Key Fringed Dress", price: 35, image: "images/Dresspurpleboxes.PNG" },
+{ name: "Emerald Green Gold Embroidery Dress", price: 45, image: "images/Dressgreenone.PNG" },
+{ name: "Bright Orange Embroidered Bodice Dress", price: 45, image: "images/Dressorangetwo.PNG" },
+{ name: "Sunset Orange Gold Butterfly Dress", price: 45, image: "images/Dressorangeone.PNG" },
   ],
 
 };
