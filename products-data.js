@@ -30,39 +30,52 @@ window.PRODUCTS = {
     { name: "Pink & Gold Botanical Embroidered Sudanese Toub", price: 75, image: "images/Pinktwo.PNG" },
     { name: "Magenta Floral Motif Sudanese Toub", price: 75, image: "images/Pinkthree.PNG" },
     { name: "Pink & Black Scalloped Gold Embellished Toub", price: 75, image: "images/Pinkblack.PNG" },
-    { name: "Sage Green Rose Print Sudanese Toub", price: 75, image: "images/Greenbrown.PNG" },
-    { name: "Orange & Cream Floral Sudanese Toub", price: 75, image: "images/Orangecream.PNG" },
-    { name: "Dusty Pink Sunburst Motif Toub", price: 75, image: "images/Pinkdish.PNG" },
-    { name: "Zaqhawa Cultural Emblem Toub", price: 75, image: "images/Zaghwa.PNG" },
     { name: "Crimson & Onyx Abstract Floral Toub", price: 75, image: "images/Blackredone.PNG" },
+
+    { name: "Yellow Zaghawa Motif Thobe", price: 65, image: "images/Yellowzaghawa.PNG" },
+    { name: "Black & Gold Gamaar Boba Thobe", price: 65, image: "images/Blackgamaarboba.PNG" },
+    { name: "Pink Traditional Tabaq Woven Thobe", price: 65, image: "images/Pinksahaan.PNG" },
+    { name: "Red & Gold Gamaar Boba Thobe", price: 65, image: "images/Redgamaarboba.PNG" },
+    { name: "Black Traditional Tabaq Woven Thobe", price: 65, image: "images/Blacksahaan.PNG" },
+
+    { name: "Light Green Floral Chiffon Thobe", price: 65, image: "images/Lightgreenwflowers.PNG" },
+    { name: "Emerald Shimmer Metallic Thobe", price: 65, image: "images/Greenshiny.PNG" },
+    { name: "Lavender Floral Garden Thobe", price: 65, image: "images/Purplewithflowers.PNG" },
+    { name: "Dark Teal Paisley Floral Thobe", price: 65, image: "images/Darkgreentinyflowers.PNG" },
+    { name: "Sunset Orange Iridescent Thobe", price: 65, image: "images/Orangeshiny.PNG" },
+
+   { name: "Brown Mini Floral Thobe", price: 65, image: "images/Brownminiflowers.PNG" },
+   { name: "Orange Gold Floral Thobe", price: 65, image: "images/Orangegold.PNG" },
+   { name: "Purple Rainbow Floral Thobe", price: 65, image: "images/Purplerainbow.PNG" },
+   { name: "Blue Rainbow Floral Thobe", price: 65, image: "images/Bluerainbow.PNG" },
+   { name: "Black Rainbow Feather Thobe", price: 65, image: "images/Blackfeather.PNG" },
+
+  { name: "Olive Green Bronze Rose Sudanese Toub", price: 65, image: "images/Greenrose.PNG" },
+  { name: "Purple Multi-Color Feather Sudanese Toub", price: 65, image: "images/Purplefeather.PNG" },
+  { name: "Black Rainbow Butterfly Sudanese Toub", price: 65, image: "images/Blackbutterflues.PNG" },
+  { name: "Royal Blue Botanical Floral Sudanese Toub", price: 65, image: "images/Bluemulti.PNG" },
 
     { name: "Pink Watercolor Leaf Print Toub", price: 75, image: "images/Pinkleaves.PNG" },
     { name: "Royal Blue & Yellow Floral Toub", price: 75, image: "images/Blueyellow.PNG" },
-    { name: "Espresso Rhinestone Embellished Toub", price: 75, image: "images/Brownone.PNG" },
     { name: "Blush Pink Bold Floral Motif Toub", price: 75, image: "images/Pinkblackflower.PNG" },
-    { name: "Onyx Black Rainbow Feather Toub", price: 75, image: "images/Blackrainbow.PNG" },
     { name: "Deep Teal & Dust Rose Wave Toub", price: 75, image: "images/Navypink.jpg" },
-    { name: "Onyx Black Gold Gamar Boba Toub", price: 75, image: "images/Blackgamarboba.PNG" },
-    { name: "Crimson Red Gold Gamar Boba Toub", price: 75, image: "images/Redgamarboba.PNG" },
-    { name: "Onyx Black Sunburst Motif Toub", price: 75, image: "images/Blackdish.PNG" },
     { name: "Mint Green Botanical Leaf Print Toub", price: 75, image: "images/Greenleaf.PNG" },
     { name: "Purple Zebra & Animal Print Toub", price: 75, image: "images/Purplestripes.PNG" },
     { name: "Coral Pink Zebra Print Toub", price: 75, image: "images/Pinkstripes.PNG" },
     { name: "Dusty Coral & Charcoal Abstract Toub", price: 75, image: "images/Pinkblackgray.PNG" },
-    { name: "Lavender Rainbow Floral Toub", price: 75, image: "images/Purplewflowers.PNG" },
-    { name: "Royal Purple Rainbow Petal Toub", price: 75, image: "images/Purplerainbowflower.PNG" },
 
    { name: "Magenta Rose Gold Geometric Toub", price: 75, image: "images/Pinkgoldleafs.PNG" },
    { name: "Mint & Coral Embellished Floral Toub", price: 75, image: "images/Mintgoldflowers.PNG" },
-   { name: "Bright Sky Blue Rainbow Floral Toub", price: 75, image: "images/Bluerainbowflowers.PNG" },
    { name: "Deep Teal & Rose Gold Wave Toub", price: 75, image: "images/Greenpink.PNG" },
    { name: "Lime Green Crimson Rose Toub", price: 75, image: "images/Greenredflowers.PNG" },
-   { name: "Onyx Black Bright Butterfly Toub", price: 75, image: "images/Blackcolorfulbutterflies.PNG" },
    { name: "Multicolor Swirl Abstract Toub", price: 75, image: "images/Multicolorflower.PNG" },
    { name: "Onyx Black & Magenta Leaf Toub", price: 75, image: "images/Blackpinkleafs.PNG" },
    { name: "Light Gray & Mustard Gold Floral Toub", price: 75, image: "images/Goldgray.PNG" },
   ],
 
+
+
+   
 
   jewelry: [
 { name: "Plated Gold Leaf V-Neck Set", price: 35, image: "images/Jewelnine9.PNG" },
