@@ -29,8 +29,6 @@ window.PRODUCTS = {
   thobes: [
     { name: "Pink & Gold Botanical Embroidered Sudanese Toub", price: 75, image: "images/Pinktwo.PNG" },
     { name: "Magenta Floral Motif Sudanese Toub", price: 75, image: "images/Pinkthree.PNG" },
-    { name: "Pink & Black Scalloped Gold Embellished Toub", price: 75, image: "images/Pinkblack.PNG" },
-    { name: "Crimson & Onyx Abstract Floral Toub", price: 75, image: "images/Blackredone.PNG" },
 
     { name: "Yellow Zaghawa Motif Thobe", price: 65, image: "images/Yellowzaghawa.PNG" },
     { name: "Black & Gold Gamaar Boba Thobe", price: 65, image: "images/Blackgamaarboba.PNG" },
@@ -55,14 +53,18 @@ window.PRODUCTS = {
   { name: "Black Rainbow Butterfly Sudanese Toub", price: 65, image: "images/Blackbutterflues.PNG" },
   { name: "Royal Blue Botanical Floral Sudanese Toub", price: 65, image: "images/Bluemulti.PNG" },
 
+{ name: "Royal Blue Gold-Accented Floral Sudanese Toub", price: 65, image: "images/Bluewithyellowtinyflowers.PNG" },
+{ name: "Coral Pink & Charcoal Abstract Sudanese Toub", price: 65, image: "images/PinkandBlackandGrayyyyy.PNG" },
+{ name: "Pink & Black Scalloped Gold Embellished Sudanese Toub", price: 65, image: "images/Pinkandblack.PNG" },
+{ name: "Crimson & Black Statement Hibiscus Sudanese Toub", price: 65, image: "images/hibisicus.PNG" },
+{ name: "Sudanese Flag Patriotic White Sudanese Toub", price: 65, image: "images/WhitetoubSudaneseflag.PNG" },
+
     { name: "Pink Watercolor Leaf Print Toub", price: 75, image: "images/Pinkleaves.PNG" },
-    { name: "Royal Blue & Yellow Floral Toub", price: 75, image: "images/Blueyellow.PNG" },
     { name: "Blush Pink Bold Floral Motif Toub", price: 75, image: "images/Pinkblackflower.PNG" },
     { name: "Deep Teal & Dust Rose Wave Toub", price: 75, image: "images/Navypink.jpg" },
     { name: "Mint Green Botanical Leaf Print Toub", price: 75, image: "images/Greenleaf.PNG" },
     { name: "Purple Zebra & Animal Print Toub", price: 75, image: "images/Purplestripes.PNG" },
     { name: "Coral Pink Zebra Print Toub", price: 75, image: "images/Pinkstripes.PNG" },
-    { name: "Dusty Coral & Charcoal Abstract Toub", price: 75, image: "images/Pinkblackgray.PNG" },
 
    { name: "Magenta Rose Gold Geometric Toub", price: 75, image: "images/Pinkgoldleafs.PNG" },
    { name: "Mint & Coral Embellished Floral Toub", price: 75, image: "images/Mintgoldflowers.PNG" },
