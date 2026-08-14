@@ -1,5 +1,5 @@
 /* =====================================================================
-   RABHEEN COLLECTION — PRODUCT LIST
+   RABHEEN COLLECTION PRODUCT LIST
    =====================================================================
    This is the ONLY file you need to touch to manage your shop.
 
