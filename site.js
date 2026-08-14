@@ -2,7 +2,7 @@
 
 // TODO: replace with your real WhatsApp number, country code, no + or spaces
 // Example: "15551234567"
-const WHATSAPP_NUMBER = "15551234567";
+const WHATSAPP_NUMBER = "14706996728";
 
 function buildOrderLink(productName, price){
   const msg = `Hi! I'm interested in the ${productName} ($${price}) from Rabheen Collection.`;
