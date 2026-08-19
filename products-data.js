@@ -75,12 +75,9 @@ window.PRODUCTS = {
    { name: "Vibrant Teal Solid Sudanese Toub", price: 80, image: "images/GreenSolidToub.PNG" },
    { name: "Fuchsia Pink Solid Sudanese Toub", price: 80, image: "images/SolidPink.PNG" },
    { name: "Red & Black Leopard Print Sudanese Toub", price: 70, image: "images/RedBlackdots.PNG" }
-     { name: "Pink & Multi-Color Statement Floral Sudanese Toub", price: 120, image: "images/PinkLargeFlower.PNG" },
+   { name: "Pink & Multi-Color Statement Floral Sudanese Toub", price: 120, image: "images/PinkLargeFlower.PNG" },
    { name: "Green, Black, White & Red Flag-Inspired Sudanese Toub", price: 75, image: "images/GreenToubSudaneseFlag.PNG" }
   ],
-
-
-   
 
   jewelry: [
 { name: "Plated Gold Leaf V-Neck Set", price: 35, image: "images/Jewelnine9.PNG" },
