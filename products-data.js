@@ -74,9 +74,9 @@ window.PRODUCTS = {
    { name: "Light Gray & Mustard Gold Floral Toub", price: 140, image: "images/Goldgray.PNG" },
    { name: "Vibrant Teal Solid Sudanese Toub", price: 80, image: "images/GreenSolidToub.PNG" },
    { name: "Fuchsia Pink Solid Sudanese Toub", price: 80, image: "images/SolidPink.PNG" },
-   { name: "Red & Black Leopard Print Sudanese Toub", price: 70, image: "images/RedBlackdots.PNG" }
+   { name: "Red & Black Leopard Print Sudanese Toub", price: 70, image: "images/RedBlackdots.PNG" },
    { name: "Pink & Multi-Color Statement Floral Sudanese Toub", price: 120, image: "images/PinkLargeFlower.PNG" },
-   { name: "Green, Black, White & Red Flag-Inspired Sudanese Toub", price: 75, image: "images/GreenToubSudaneseFlag.PNG" }
+   { name: "Green, Black, White & Red Flag-Inspired Sudanese Toub", price: 75, image: "images/GreenToubSudaneseFlag.PNG" },
   ],
 
   jewelry: [
@@ -94,7 +94,7 @@ window.PRODUCTS = {
   dresses: [
 { name: "Dusty Rose Geometric Embroidered Abaya & Matching Bag", price: 80, image: "images/PinkAbaya.PNG" },
 { name: "Classic Black Gold-Embellished Medallion Abaya", price: 45, image: "images/BlackAbaya.PNG" },
-{ name: "Navy Blue Floral Shoulder-Embellished Abaya & Matching Bag", price: 80, image: "images/NavyAbaya.PNG" }
+{ name: "Navy Blue Floral Shoulder-Embellished Abaya & Matching Bag", price: 80, image: "images/NavyAbaya.PNG" },
 { name: "Purple Gold Greek Key Fringed Dress", price: 35, image: "images/Dresspurpleboxes.PNG" },
 { name: "Emerald Green Gold Embroidery Dress", price: 45, image: "images/Dressgreenone.PNG" },
 { name: "Bright Orange Embroidered Bodice Dress", price: 45, image: "images/Dressorangetwo.PNG" },
