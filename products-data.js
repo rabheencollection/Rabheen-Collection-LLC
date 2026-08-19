@@ -60,7 +60,6 @@ window.PRODUCTS = {
 { name: "Sudanese Flag Patriotic White Sudanese Toub", price: 75, image: "images/WhitetoubSudaneseflag.PNG" },
 
     { name: "Pink Watercolor Leaf Print Toub", price: 80, image: "images/Pinkleaves.PNG" },
-    { name: "Blush Pink Bold Floral Motif Toub", price: 120, image: "images/Pinkblackflower.PNG" },
     { name: "Deep Teal & Dust Rose Wave Toub", price: 80, image: "images/Navypink.jpg" },
     { name: "Mint Green Botanical Leaf Print Toub", price: 80, image: "images/Greenleaf.PNG" },
     { name: "Purple Zebra & Animal Print Toub", price: 80, image: "images/Purplestripes.PNG" },
@@ -73,8 +72,12 @@ window.PRODUCTS = {
    { name: "Multicolor Swirl Abstract Toub", price: 130, image: "images/Multicolorflower.PNG" },
    { name: "Onyx Black & Magenta Leaf Toub", price: 150, image: "images/Blackpinkleafs.PNG" },
    { name: "Light Gray & Mustard Gold Floral Toub", price: 140, image: "images/Goldgray.PNG" },
+   { name: "Vibrant Teal Solid Sudanese Toub", price: 80, image: "images/GreenSolidToub.PNG" },
+   { name: "Fuchsia Pink Solid Sudanese Toub", price: 80, image: "images/SolidPink.PNG" },
+   { name: "Red & Black Leopard Print Sudanese Toub", price: 70, image: "images/RedBlackdots.PNG" }
+     { name: "Pink & Multi-Color Statement Floral Sudanese Toub", price: 120, image: "images/PinkLargeFlower.PNG" },
+   { name: "Green, Black, White & Red Flag-Inspired Sudanese Toub", price: 75, image: "images/GreenToubSudaneseFlag.PNG" }
   ],
-
 
 
    
@@ -92,6 +95,9 @@ window.PRODUCTS = {
   ],
 
   dresses: [
+{ name: "Dusty Rose Geometric Embroidered Abaya & Matching Bag", price: 80, image: "images/PinkAbaya.PNG" },
+{ name: "Classic Black Gold-Embellished Medallion Abaya", price: 45, image: "images/BlackAbaya.PNG" },
+{ name: "Navy Blue Floral Shoulder-Embellished Abaya & Matching Bag", price: 80, image: "images/NavyAbaya.PNG" }
 { name: "Purple Gold Greek Key Fringed Dress", price: 35, image: "images/Dresspurpleboxes.PNG" },
 { name: "Emerald Green Gold Embroidery Dress", price: 45, image: "images/Dressgreenone.PNG" },
 { name: "Bright Orange Embroidered Bodice Dress", price: 45, image: "images/Dressorangetwo.PNG" },
